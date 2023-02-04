@@ -24,6 +24,9 @@ ESX Ambulance Job is an plugin for ESX with features:
 
 ## Legal
 
+## Original Script
+   https://github.com/esx-framework/esx_ambulancejob
+
 ### License
 
 esx_ambulancejob - ambulance script for fivem
