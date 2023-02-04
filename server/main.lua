@@ -257,7 +257,7 @@ AddEventHandler('esx_ambulancejob:giveItem', function(itemName, amount)
 	end
 end)
 
-ESX.RegisterCommand('revive', 'admin', function(xPlayer, args, showError)
+ESX.RegisterCommand('revive', 'user', function(xPlayer, args, showError)
 	args.playerId.triggerEvent('esx_ambulancejob:revive')
 end, true, {help = _U('revive_help'), validate = true, arguments = {
 	{name = 'playerId', help = 'The player id', type = 'player'}
