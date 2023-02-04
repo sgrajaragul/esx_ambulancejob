@@ -2,7 +2,8 @@
 
 ESX Ambulance Job is an plugin for ESX with features:
 
-- use /revive me / id
+- use /revive me / id can be used by user group
+- use /reviveall can be used by admin group
 - Script Has been Modified to respawn player at the same location where they died
 - Inventory Items wont be removed after death, please chage it if you would like to remove player inventory
 - change other stuffs like timing's in config.lua
