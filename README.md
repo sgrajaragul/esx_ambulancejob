@@ -22,11 +22,12 @@ ESX Ambulance Job is an plugin for ESX with features:
 
 - [esx_society](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_society)
 
-## Legal
+
 
 ## Original Script
    https://github.com/esx-framework/esx_ambulancejob
 
+## Legal
 ### License
 
 esx_ambulancejob - ambulance script for fivem
